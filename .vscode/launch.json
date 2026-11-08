@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<eduNest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.csit321g4.triplek.eduNest.DemoApplication",
+            "projectName": "eduNest",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
